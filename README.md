@@ -4,7 +4,10 @@ A MATLAB/Simulink model of a self-balancing robot, treated as an **inverted pend
 
 The pendulum was built from first principles in Simulink (equations of motion to blocks), integrated with a cart subsystem, and then stabilized with a controller. A MATLAB script animates the result.
 
-<!-- Add a GIF or screenshot of the animation here -->
+<img width="1151" height="956" alt="image" src="https://github.com/user-attachments/assets/e7b6f72b-ac44-4ed0-a3c5-a4ad0bc7f220" />
+<img width="1881" height="664" alt="image" src="https://github.com/user-attachments/assets/2b4acd79-05bf-4070-995c-54527e415766" />
+
+
 <!-- ![Animation](media/animation.gif) -->
 
 ---
